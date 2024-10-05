@@ -1,7 +1,6 @@
 Este repositório contém um guia passo a passo para configurar a automação de testes e a integração contínua (CI) para aplicativos Android usando GitHub Actions. O conteúdo foi desenvolvido para ajudar desenvolvedores a automatizar o processo de teste de seus aplicativos, garantindo que o código seja validado antes de ser mesclado à branch principal.
 
 O que você encontrará aqui
-Configuração Inicial: Como criar e configurar um repositório no GitHub.
 Uso do GitHub Actions: Orientações sobre como acessar e utilizar a aba Actions para automação de testes.
 Templates de CI: Instruções para escolher e configurar um template adequado para aplicativos Android.
 Explicação do YAML: Uma introdução ao formato YAML e como ele é usado para definir workflows no GitHub Actions.
