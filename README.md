@@ -1,4 +1,3 @@
-Automação de Testes e CI para Apps Android com GitHub Actions
 Este repositório contém um guia passo a passo para configurar a automação de testes e a integração contínua (CI) para aplicativos Android usando GitHub Actions. O conteúdo foi desenvolvido para ajudar desenvolvedores a automatizar o processo de teste de seus aplicativos, garantindo que o código seja validado antes de ser mesclado à branch principal.
 
 O que você encontrará aqui
