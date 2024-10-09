@@ -11,4 +11,4 @@ Este repositório apresenta um guia prático para configurar automação de test
 
 ## Exemplo Completo e Mais Detalhes
 
-Para um guia completo, confira o artigo no Medium: [Automatizando Testes de Apps Android com GitHub Actions]([https://medium.com/@marcelo_luiz17/automatizando-testes-de-apps-android-com-github-actions-049e679f8840](https://medium.com/@marcelo_luiz17/automatizando-testes-de-apps-android-com-github-actions-049e679f8840).
+Para um guia completo, confira o artigo no Medium: [Automatizando Testes de Apps Android com GitHub Actions](https://medium.com/@marcelo_luiz17/automatizando-testes-de-apps-android-com-github-actions-049e679f8840).
